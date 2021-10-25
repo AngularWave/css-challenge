@@ -23,3 +23,15 @@ Create a custom checkbox.
 Create a «fixed» overlay for scrollable container
 
 - [Template](https://codepen.io/AngularWave/pen/rNzWaEG)
+- [Solution](https://codepen.io/AngularWave/pen/porRJmp)
+
+## Day 05
+Make a sticky header with shadow appearing only when it's «stuck»
+
+- [Template](https://codepen.io/AngularWave/pen/oNeBXrr)
+- [Solution](https://codepen.io/AngularWave/pen/yLoMgvj)
+
+## Day 06
+Create a «fixed» overlay for scrollable container
+
+- [Template](https://codepen.io/AngularWave/pen/ExvWEYR)
